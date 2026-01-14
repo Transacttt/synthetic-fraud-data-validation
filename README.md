@@ -1,6 +1,19 @@
 # synthetic-fraud-data-validation
 Privacy-preserving synthetic transaction data for fraud model development and validation under regulatory constraints.
 
+## Dataset
+This project uses the Kaggle Credit Card Fraud dataset.
+
+Due to GitHub file size limits, the dataset is not included.
+
+Download from:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+Place `creditcard.csv` in the project root before running.
+
+
+
+
 # **Privacy-Preserving Synthetic Financial Transactions for Fraud Modelling**
 Overview
 
